@@ -1,7 +1,8 @@
 # CLAUDE.md
 
 This repo is a minimal starter for the 12-week transformation-tracker program taught at
-profrod.ai. It exists so a student can `git clone` it into their own project (or copy the
+[profrod.ai/courses/transformation-tracker-with-claude-code](https://profrod.ai/courses/transformation-tracker-with-claude-code).
+It exists so a student can `git clone` it into their own project (or copy the
 `.claude/skills/transformation-tracker/` directory into a project they already have) and start
 logging weeks immediately.
 

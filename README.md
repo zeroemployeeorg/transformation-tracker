@@ -12,6 +12,12 @@ Jupyter), keeping the same five metrics and the same privacy design, on a stack 
 require installing a data-analysis toolchain: two stdlib-only Python scripts, a plain JSONL log,
 and a Claude Code skill that asks the right questions before writing anything.
 
+Built as the companion repo for [The 12-Week Transformation Tracker, Run on Claude
+Code](https://profrod.ai/courses/transformation-tracker-with-claude-code), a free 12-lesson
+course that walks through installing this skill, logging a real Week 1, reading the five metrics,
+debugging a bad week without rewriting history, and reading the graduation gate correctly. This
+README covers the mechanics; the course covers the discipline.
+
 ## Use it
 
 Clone this repo, or copy `.claude/skills/transformation-tracker/` into a project you already
